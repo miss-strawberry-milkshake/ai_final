@@ -2,8 +2,8 @@ This was the final from the artifical intelligence class I took fall 2023. I imp
 
 - Game tree
 - Alpha beta pruning
-- Basic reinforcement learning
-- I tried to get the reinforcement learning work with a neural network (that was extra credit and I don't think I ever finished it)
+- Reinforcement learning (using a linear weight vector)
+- Reinforcement learning (using a neural network)
 
 We could use whatever language we wanted and I used this as an excuse to learn rust.
 But this was the first project I ever did in rust so it's not particularly idiomatic.
